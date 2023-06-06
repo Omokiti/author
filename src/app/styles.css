@@ -207,15 +207,19 @@
   }
 
   .searchdetails {
-    width: 200px;
-    height: auto;
-    text-align: center;
+   text-align: center;
     background: #ffffff;
   }
 
   .searchdetails p {
     color: #141419;
   }
+  ::placeholder{
+    font-size:1.07vw;
+    color: #181818;
+    opacity: 0.5;
+    letter-spacing: 0.2px
+   }
 }
 
 
@@ -431,18 +435,19 @@ text-align: center;
   }
 
   .searchdetails {
-    width: 200px;
-    height: auto;
+   height: auto;
     text-align: center;
     background-color: #141419;
-    width: 200px;
-    height: auto;
     font-size: 25px;
-    /* background: #ffffff; */
-  }
 
-  .searchdetails p {
-    /* color: #141419; */
-    color: red;
   }
+.searchdetails p {
+    color:#141419;
+ }
+ ::placeholder{
+  font-size:1.07vw;;
+  color: #181818;
+  opacity: 0.5;
+  letter-spacing: 0.2px
+ }
 }

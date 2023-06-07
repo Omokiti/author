@@ -2,7 +2,7 @@
   body {
     font-family: "Circular Std", sans-serif;
     width: 100%;
-    background-color: #181818;
+    background-color: #181818 !important;
   }
 
   .menu--items {
@@ -227,7 +227,8 @@
   body {
     font-family: "Circular Std", sans-serif;
     width: 100%;
-    background-color: #181818;
+    background-color: #181818 !important;
+   
   }
 .menu--items {
     list-style-type: none;

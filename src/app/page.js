@@ -65,7 +65,7 @@ authors in one place.
         height={61}
         // className='img'
         />
-        <span className='author-name'>Emamuzo</span>
+        <span className='author-name'>Lorine</span>
     </div>
     <div className='section_two'> 
     <span className='authorz'>Books</span>
@@ -82,7 +82,7 @@ authors in one place.
         height={61}
     
         />
-        <span className='author-name'>Emamuzo</span>
+        <span className='author-name'>Mamuzo</span>
     </div>
     <div className='section_two'> 
     <span className='authorz'>Books</span>
